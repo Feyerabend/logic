@@ -1,5 +1,6 @@
 # Logic
 
+![Article](/assets/images/IMG_2741.png)
 
 Translation of: Set Lonnert,
 "Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
@@ -7,8 +8,6 @@ Translation of: Set Lonnert,
 This is from the original manuscript and not from the final
 published version, so the editor might have changed minor things.
 Translation has mainly been done through Google translate.
-
-![Article](/assets/images/IMG_2741.png)
 
 I worked as a freelance journalist for approximately 10 years
 from around 1998 until 2008, with the focus on computers.
@@ -26,13 +25,13 @@ writes:
 article ends with the assertion that Ericsson no longer develops
 Erlang. This  is completely wrong." *Datormagazin* no. 4 2001.
 
-![Response](/assets/images/IMG_2740.png)
-
 He was obviously right. I learned the hard way that
 __checking your sources__ is __always__ a requirement
 before publishing. I wrongly trusted an argument I read
 on the internet, having a discussion on Erlang.
 Well, now over to the article.
+
+![Response](/assets/images/IMG_2740.png)
 
 
 ## Erlang - an old programming language with a future
