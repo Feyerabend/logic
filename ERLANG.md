@@ -16,7 +16,7 @@ at the time for the audience of hobbyists and other computer
 interested laymen, as I was in the main also. But even if I wrote
 about 80 articles in total, there must also have been mistakes.
 In this one article there was. None of the others did not reach
-any such response or correction.
+any such responses or corrections.
 
 In a reply Ulf Wiger, Senior System Architect at Ericsson,
 writes:
