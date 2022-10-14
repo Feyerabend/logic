@@ -2,8 +2,10 @@
 
 ## Erlang - an old programming language with a future
 
-Translation of: Set Lonnert, "Erlang - an old programming
-language with a future", *Datormagazin* no. 3 2001.
+Translation of:
+
+> Set Lonnert, "Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
+
 This is from the original manuscript and not the published version.
 Translation mainly done by Google translate.
 
