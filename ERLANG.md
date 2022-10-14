@@ -1,9 +1,8 @@
 # Logic
 
 
-Translation of:
-
-> Set Lonnert, "Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
+Translation of: Set Lonnert,
+"Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
 
 This is from the original manuscript and not from the final
 published version, so the editor might have changed minor things.
@@ -23,7 +22,7 @@ any such response or correction.
 In a reply Ulf Wiger, Senior System Architect at Ericsson,
 writes:
 
-"Thank you for a nice article about Erlang. Unfortunately the
+> "Thank you for a nice article about Erlang. Unfortunately the
 article ends with the assertion that Ericsson no longer develops
 Erlang. This  is completely wrong." *Datormagazin* no. 4 2001.
 
