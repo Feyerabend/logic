@@ -8,17 +8,19 @@ manuscript and not the published version.
 
 ### Erlang
 
-In the wake of things like broadband and integration with telephony, the Internet requires
-better software. With faster connections, it follows that the systems can cope with high
-availability, have fault tolerance, fast reactions, or be almost linearly scalable to cope
-with the pressure. Several of today's systems cannot handle that future at all.
+In the wake of things like broadband and integration with telephony, the Internet
+requires better software. With faster connections, it follows that the systems
+can cope with high availability, have fault tolerance, fast reactions, or be
+almost linearly scalable to cope with the pressure. Several of today's systems
+cannot handle that future at all.
 
-To remedy this, there is reason to look and learn from areas that already have extensive
-experience with systems designed based on high requirements such as the aviation industry,
-telephony or banks. One component could be looking at relevant programming languages.
-Ericsson has stitched together e.g. an AX switch and database system (DBMS) using the
-Erlang language. This completely proprietary language/system has several features that
-make it almost perfect for putting together typical such applications.
+To remedy this, there is reason to look and learn from areas that already have
+extensive experience with systems designed based on high requirements such as
+the aviation industry, telephony or banks. One component could be looking at
+relevant programming languages. Ericsson has stitched together e.g. an AX switch
+and database system (DBMS) using the Erlang language. This completely proprietary
+language/system has several features that make it almost perfect for putting
+together typical such applications.
 
 ### Features
 
@@ -120,14 +122,20 @@ factorial_2(N) when N > 0 ->
 
 ### Erlang/OTP
 
-Erlang is now available as open source code to download. An accessible environment
-for experiments during e.g. Microsoft Windows is Erlang/OTP (open telecom platform).
-This platform means that certain standards, libraries and other components are assumed.
-If you start the environment, it looks like in picture 5. This is the shell you
-communicate through. Here you can interact with Erlang directly, for example calculate
-arithmetic expressions directly. Compiling and loading a Tetris game is provided with
-a simple command "c(tetris).". Because an internal library is used, some GUI components
-are slightly different from the standard components under Windows, as shown in Figure 6.
+Erlang is now available as open source code to download. An accessible
+environment for experiments during e.g. Microsoft Windows is Erlang/OTP
+(open telecom platform). This platform means that certain standards,
+libraries and other components are assumed. If you start the environment,
+it looks like in picture 5. This is the shell you communicate through.
+Here you can interact with Erlang directly, for example calculate arithmetic
+expressions directly. Compiling and loading a Tetris game is provided with
+a simple command "c(tetris).". Because an internal library is used, some GUI
+components are slightly different from the standard components under Windows,
+as shown in Figure 6.
+
+Figure 6.
+![Figure 6](/assets/images/bild6.bmp)
+
 
 Since Erlang is distributed and can be run over several nodes (machines) over the
 Internet, e.g. it is possible to check the status (such as load balancing) of the
