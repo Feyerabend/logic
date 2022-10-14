@@ -15,8 +15,8 @@ Here is an article from 2001 on Erlang, a little known language
 at the time for the audience of hobbyists and other computer
 interested laymen, as I was in the main also. But even if I wrote
 about 80 articles in total, there must also have been mistakes.
-In this one article there was. The others did not reach any such
-response.
+In this one article there was. None of the others did not reach
+any such response or correction.
 
 In a reply Ulf Wiger, Senior System Architect at Ericsson,
 writes:
@@ -32,7 +32,7 @@ on the internet, having a discussion on Erlang.
 Now over to the article.
 
 
-### Erlang - an old programming language with a future
+## Erlang - an old programming language with a future
 
 In the wake of things like broadband and integration with telephony, the Internet
 requires better software. With faster connections, it follows that the systems
