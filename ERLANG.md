@@ -1,8 +1,6 @@
 # Logic
 
 
-## Erlang - an old programming language with a future
-
 Translation of:
 
 > Set Lonnert, "Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
@@ -31,8 +29,10 @@ He was obviously right. I learned the hard way that
 *checking your sources* is __always__ a requirement
 before publishing. I wrongly trusted an argument I read
 on the internet, having a discussion on Erlang.
+Now over to the article.
 
-### Erlang
+
+### Erlang - an old programming language with a future
 
 In the wake of things like broadband and integration with telephony, the Internet
 requires better software. With faster connections, it follows that the systems
