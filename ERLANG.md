@@ -25,7 +25,7 @@ writes:
 
 "Thank you for a nice article about Erlang. Unfortunately the
 article ends with the assertion that Ericsson no longer develops
-Erlang. This  is completely wrong."
+Erlang. This  is completely wrong." *Datormagazin* no. 4 2001.
 
 He was obviously right. I learned the hard way that
 *checking your sources* is _always_ a requirement
