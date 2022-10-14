@@ -29,7 +29,7 @@ He was obviously right. I learned the hard way that
 __checking your sources__ is __always__ a requirement
 before publishing. I wrongly trusted an argument I read
 on the internet, having a discussion on Erlang.
-Now over to the article.
+Well, now over to the article.
 
 
 ## Erlang - an old programming language with a future
