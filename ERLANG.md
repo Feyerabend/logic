@@ -127,16 +127,18 @@ Erlang is now available as open source code to download. An accessible
 environment for experiments during e.g. Microsoft Windows is Erlang/OTP
 (open telecom platform). This platform means that certain standards,
 libraries and other components are assumed. If you start the environment,
-it looks like in picture 5. This is the shell you communicate through.
-Here you can interact with Erlang directly, for example calculate arithmetic
-expressions directly. Compiling and loading a Tetris game is provided with
-a simple command "c(tetris).". Because an internal library is used, some GUI
-components are slightly different from the standard components under Windows,
-as shown in Figure 6.
+it looks like in the picture below.
 
-Figure 6.
-![Figure 6](/assets/images/bild6.bmp)
+![Tetris](/assets/images/bild5.bmp)
 
+This is the shell you communicate through. Here you can interact with
+Erlang directly, for example calculate arithmetic expressions directly.
+Compiling and loading a Tetris game is provided with a simple command
+"c(tetris).". Because an internal library is used, some GUI components
+are slightly different from the standard components under Windows,
+as shown in the figure below.
+
+![Tetris](/assets/images/bild6.bmp)
 
 Since Erlang is distributed and can be run over several nodes (machines) over the
 Internet, e.g. it is possible to check the status (such as load balancing) of the
