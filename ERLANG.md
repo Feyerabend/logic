@@ -1,13 +1,36 @@
 # Logic
 
+
 ## Erlang - an old programming language with a future
 
 Translation of:
 
 > Set Lonnert, "Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
 
-This is from the original manuscript and not the published version.
-Translation mainly done by Google translate.
+This is from the original manuscript and not from the final
+published version, so the editor might have changed minor things.
+Translation has mainly done through Google translate.
+
+I worked as a freelance journalist for approximately 10 years
+from around 1998 until 2008, with the focus on computers.
+Here is an article from 2001 on Erlang, a little known language
+at the time for the audience of hobbyists and other computer
+interested laymen, as I was in the main also. But even if I wrote
+about 80 articles in total, there must also have been mistakes.
+In this one article there was. The others did not reach any such
+response.
+
+In a reply Ulf Wiger, Senior System Architect at Ericsson,
+writes:
+
+"Thank you for a nice article about Erlang. Unfortunately the
+article ends with the assertion that Ericsson no longer develops
+Erlang. This  is completely wrong."
+
+He was obviously right. I learned the hard way that
+*checking your sources* is _always_ a requirement
+before publishing. I wrongly trusted an argument I read
+on the internet, having a discussion on Erlang.
 
 ### Erlang
 
