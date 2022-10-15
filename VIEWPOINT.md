@@ -13,16 +13,14 @@ science of *data* and *programming* in some way. Ignorant as I was, however,
 I had no idea *how* they were to be united. The conference, on the other hand,
 clearly declared in the title that logic, which had its historical connection
 to philosophy, and programming to the data area were part of a kind of fusion:
-*logic programming*. After starting with theoretical philosophy, I found out
-that I had also applied and been accepted for a systems science course in
-Stockholm. Well, maybe it can wait, I thought. Not sure if my knowledge was
-sufficient, my fear, my shyness or the uncertainty of whether I was smart
-enough, stopped me from even trying.
+*logic programming*. Exciting! After starting with theoretical philosophy,
+I found out that I had also applied and been accepted for a systems science
+course (systemvetenskap) in Stockholm. Well, maybe it can wait, I thought.
 
 
 ### The 1984 Logic Programming conference
 
-With some surprise I found no one from the philosophy department present at
+With some surprise I found *no one* from the philosophy department present at
 the conference. On the other hand, there were several people from the department
 under the professor of computer science, Sten-Åke Tärnlund. Several promising
 students came a few years later to go over to Japan with a substantial salary
