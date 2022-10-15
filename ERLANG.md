@@ -31,7 +31,7 @@ He was obviously right. I learned the hard way that
 __checking your sources__ is __always__ a requirement
 before publishing. I wrongly trusted an argument I read
 on the internet, having a discussion on Erlang.
-Well, now over to the article.
+Well, sorry bout that. Now over to the article.
 
 ![Response](/assets/images/IMG_2740.png)
 
@@ -120,7 +120,11 @@ assumes the value 34. When the match succeeds, Erlang can continue after the -> 
 Here it is tasked with recursively working on 34 multiplied by the factorization of
 34 minus 1, etc.
 
-.. figure 2 ..
+Figure 2
+$$n! = \begin {cases}
+1 & : n = 0 \\
+n \paren {n - 1}! & : n &gt; 0
+\end {cases}$$
 
 A more refined way of calculating factorization is shown in figure 3, with so-called
 guards, or expanded in figure 4 with both guards and local temporary variables that
