@@ -190,19 +190,19 @@ In Holmström-Hintikka, Ghita & Lindström, Sten & Sliwinski, Rysiek.
 (2001). Collected Papers of Stig Kanger with Essays on His Life and Work:
 Vol. II. 10.1007/978-94-010-0630-9 Page 53.
 
-So my thinking today lean towards that Kanger might (might!) later
-deliberately avoided any encouragement to even think about philosophy and
-computers. Well ...
 
 
 ### Disillusioned
 
-So while I drifted towards historical subjects at the university, my interests
-also still was with computers. However those were large, quite out of reach
-for a student in philosophy. After various kinds of attempts to fuse
-computers and philosophy during the 1980s in attempts to understand,
-convince, argue, discuss with everyone I could even if I had little
-faith they were interested, *but all with setbacks*.
+So my thinking today lean towards that Kanger might (might!) later
+deliberately avoided any encouragement to even think about philosophy and
+computers. Well ... so while I drifted towards historical subjects at
+the university, my interests also still was with computers. However
+those were large, quite out of reach for a student in philosophy.
+After various kinds of attempts to fuse computers and philosophy
+during the 1980s in attempts to understand, convince, argue, discuss
+with everyone I could even if I had little faith they were interested,
+*but all with setbacks*.
 I was lost and doubted whether combination really existed or
 could exist. Was the combination of philosophy and computers that I imagined just
 a wishful dream? I also grew increasingly tired of higher seminars which seemed to
@@ -231,37 +231,4 @@ rather tries to *construct computers that mimic the brain in neural networks*:
 "While classical AI sees intelligence mainly as symbolic thinking, connectionists
 emphasize learning and adaptive behavior." Lindström then describes examples of
 how an artificial neural network is structured, but limits the networks to a
-single layer and a special case of backpropagation in the delta rule. But we
-shall not now immerse ourselves in how these networks work now. We come up
-again how important it was with this 'parallel' path to give perspective on AI.
-
-
-
-#### NOT RELLY USEFUL SCRAP
-
-Object-orientation,
-a way of coding programs, got a boost in the 80s through the programming language
-Smalltalk, where unfortunately the books were so expensive that I could only visit the Akademibokhandeln in Stockholm to browse the copies. However, publications in
-artificial intelligence were sometimes affordable even for my student wallet,
-especially if they were out of date and a new edition replaced an obsolete old one.
-Of course, my understanding was mostly in the direction within AI that leaned towards
-logic as a source of inspiration. Much was theory about search trees, syntactic
-analysis in grammar or semantic networks. But little was also about programming,
-which I already discovered during junior high school. In addition to the declarative
-Prolog, functional LISP was often used as a programming language. Without access to
-a computer, without access to programming languages, outside the technical
-institutions, I got to 'dry swim the code' through the books.
-
-
-Slowly over the course of a few years in the early 90s, I left university and
-the academic sphere. It took time for me to understand the situation myself.
-Probably it was combinations of disillusionment, increasingly lacking self-esteem,
-bordering on depression, calling out without hearing an answer. My attitude towards
-what I could do or not do changed quite drastically with hindsight. The transition
-was not easy or that I even had the outline of a changed life plan. As with many
-who experience it, the change can only be there suddenly. However, the development
-of the computer came to keep up in the future, but now in a different way, which
-we will return to later.
-
-
-[description of something in the conference from proceedings??] The conference did not go unnoticed. Computer Sweden, the then Swedish news agency in newspaper format for the computer area, made a report. Even Sweden's Television had a feature in the news program Rapport. Even at this time, it was quite unusual for a conference to be noticed by the national media.
+single layer and a special case of backpropagation in the delta rule.
