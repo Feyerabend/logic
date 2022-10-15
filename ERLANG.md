@@ -122,12 +122,12 @@ Here it is tasked with recursively working on 34 multiplied by the factorization
 
 Figure 2
 ```math
-$$
+$
 n! = \begin {cases}
 1 & : n = 0 \\
 n \paren {n - 1}! & : n &gt; 0
 \end {cases}
-$$
+$
 ```
 
 A more refined way of calculating factorization is shown in figure 3, with so-called
