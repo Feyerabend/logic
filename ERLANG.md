@@ -216,7 +216,7 @@ other things, the distribution (possibly to several machines) and the replicatio
 (both to RAM and to disk) means that availability will be very high.
 
 Unfortunately, Ericsson has stopped its development of Erlang, and refrains from
-writing applications in it in the future. Many of the group that worked with Erlang
+writing applications in it in the future.[^corr] Many of the group that worked with Erlang
 left Ericsson and formed Bluetail in 1999. Bluetail was recently sold last August
 to Alteon WebSystems. Perhaps no company is eager for Erlang anymore, but many
 others are now starting to discover it. There is still reason to learn highly
@@ -229,6 +229,7 @@ of efficiency (speed), while Erlang may gain in more secure properties.
 
 *Set Lonnert*
 
+[^corr]: Wrong! See correction above.
 
 #### Downloads:
 
