@@ -6,7 +6,7 @@
 
 From the east, a bright light from the sun shines on the bright yellow facade
 of the university building. It is Monday morning, July 2, 1984, and *the Second
-International Conference in Logic Programming* is about to begin in Uppsala.
+International Conference in Logic Programming* is about to begin in Uppsala ...
 
 [description of something in the conference from proceedings??] The conference did not go unnoticed. Computer Sweden, the then Swedish news agency in newspaper format for the computer area, made a report. Even Sweden's Television had a feature in the news program Rapport. Even at this time, it was quite unusual for a conference to be noticed by the national media.
 
@@ -127,7 +127,35 @@ Prolog, functional LISP was often used as a programming language. Without access
 a computer, without access to programming languages, outside the technical
 institutions, I got to 'dry swim the code' through the books.
 
-After various kinds of attempts during the 1980s to understand, convince, argue, discuss with everyone I could even if I had little faith they were interested but all with setbacks, I was lost and doubted whether combination really existed or could exist. Was the combination of philosophy and computers that I imagined just a wishful dream? I also grew increasingly tired of higher seminars which seemed to me to be getting nowhere. I was getting tired of university courses. During the spring of 1992, however, the then docent in theoretical philosophy Sten Lindström had a small course in AI. He had introduced me to model theory and Kripke semantics in another modal logic course exactly ten years earlier. It was possibly the first ever AI course at the institution, although I saw in the possible courses under Kanger there was one in automata theory, which in principle could be close. Lindström went through common problems such as consciousness, different ideas about how AI is defined and what it is, but also arguments from John Searle questioning whether the computer or AI really understands or has thoughts. But what was particularly interesting to me at the time was that Lindström was the very last to take up a direction of what was then called connectionism. Connectionism is contrasted with classical AI. Lindström writes in the lecture notes: "Classical AI wants to construct computers that can represent their environment and that can reason about this environment using formal logical rules." This is what they call good old fashion AI (after the English concept of GOFAI or “good old fashion AI”). This takes place through the implementation of specified functions, which become algorithms in the computer. On the other hand, connectionism rather tries to construct computers that mimic the brain in neural networks: "While classical AI sees intelligence mainly as symbolic thinking, connectionists emphasize learning and adaptive behavior." Lindström then describes examples of how an artificial neural network is structured, but limits the networks to a single layer and a special case of backpropagation in the delta rule. But we shall not now immerse ourselves in how these networks work now. We come up again how important it was with this 'parallel' path to give perspective on AI.
+After various kinds of attempts during the 1980s to understand, convince, argue,
+discuss with everyone I could even if I had little faith they were interested but
+all with setbacks, I was lost and doubted whether combination really existed or
+could exist. Was the combination of philosophy and computers that I imagined just
+a wishful dream? I also grew increasingly tired of higher seminars which seemed to
+me to be getting nowhere. I was getting tired of university courses. During the
+spring of 1992, however, the then docent in theoretical philosophy Sten Lindström
+had a small course in AI. He had introduced me to model theory and Kripke semantics
+in another modal logic course exactly ten years earlier. It was possibly the first
+ever AI course at the institution, although I saw in the possible courses under
+Kanger there was one in automata theory, which in principle could be close.
+Lindström went through common problems such as consciousness, different ideas
+about how AI is defined and what it is, but also arguments from John Searle
+questioning whether the computer or AI really understands or has thoughts.
+But what was particularly interesting to me at the time was that Lindström
+was the very last to take up a direction of what was then called connectionism.
+Connectionism is contrasted with classical AI. Lindström writes in the lecture
+notes: "Classical AI wants to construct computers that can represent their
+environment and that can reason about this environment using formal logical rules."
+This is what they call good old fashion AI (after the English concept of GOFAI or
+“good old fashion AI”). This takes place through the implementation of specified
+functions, which become algorithms in the computer. On the other hand, connectionism
+rather tries to construct computers that mimic the brain in neural networks:
+"While classical AI sees intelligence mainly as symbolic thinking, connectionists
+emphasize learning and adaptive behavior." Lindström then describes examples of
+how an artificial neural network is structured, but limits the networks to a
+single layer and a special case of backpropagation in the delta rule. But we
+shall not now immerse ourselves in how these networks work now. We come up
+again how important it was with this 'parallel' path to give perspective on AI.
 
 Slowly over the course of a few years in the early 90s, I left university and
 the academic sphere. It took time for me to understand the situation myself.
