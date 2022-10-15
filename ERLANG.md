@@ -2,6 +2,8 @@
 
 ![Article](/assets/images/IMG_2741.png)
 
+## About an article on Erlang
+
 Translation of: Set Lonnert,
 "Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
 
@@ -34,7 +36,7 @@ Well, now over to the article.
 ![Response](/assets/images/IMG_2740.png)
 
 
-## Erlang - an old programming language with a future
+## *Erlang - an old programming language with a future*
 
 In the wake of things like broadband and integration with telephony, the Internet
 requires better software. With faster connections, it follows that the systems
