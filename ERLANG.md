@@ -2,7 +2,7 @@
 
 ![Article](/assets/images/IMG_2741.png)
 
-## About an article on Erlang
+## Introduction: About an article on Erlang from 2001
 
 Translation of: Set Lonnert,
 "Erlang - an old programming language with a future",
