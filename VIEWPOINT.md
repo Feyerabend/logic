@@ -184,7 +184,7 @@ provers for first-order logic were performed in Stockholm in 1958".[^First]
 [^Provability]: Stig Kanger, *Provability in Logic*, Vol. 1 of Studies in Philosophy,
 Almqvist & WIksell, Stockholm 1957.
 
-[First^]: Degtyarev, Anatoli & Voronkov, Andrei. (2011).
+[^First]: Degtyarev, Anatoli & Voronkov, Andrei. (2011).
 “Kanger’s Choices in Automated Reasoning”. 10.1007/978-94-010-0630-9_4.
 In Holmström-Hintikka, Ghita & Lindström, Sten & Sliwinski, Rysiek.
 (2001). Collected Papers of Stig Kanger with Essays on His Life and Work:
