@@ -233,7 +233,7 @@ of efficiency (speed), while Erlang may gain in more secure properties.
 #### Downloads:
 
 * Official website: documentation, source code, compiled Erlang/OTP for e.g. Microsoft Windows: http://www.erlang.org/
-* Bluetail: http://www.bluetail.com/
-* SICS verification project: http://www.sics.se/fdt/Erlang/
+* Bluetail: http://www.bluetail.com/ (defunct)
+* SICS verification project: http://www.sics.se/fdt/Erlang/ (redirects to RISE, also government projects)
 * Several useful links: http://dmoz.org/Computers/Programming/Languages/Erlang/
 * Downloadable book about Erlang, and examples: http://www.serc.rmit.edu.au/~maurice/erlbk/
