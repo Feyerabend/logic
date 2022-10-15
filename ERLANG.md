@@ -5,7 +5,8 @@
 ## About an article on Erlang
 
 Translation of: Set Lonnert,
-"Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
+"Erlang - an old programming language with a future",
+*Datormagazin* no. 3 2001.
 
 This is from the original manuscript and not from the final
 published version, so the editor might have changed minor things.
@@ -60,7 +61,7 @@ A system should therefore have real-time characteristics, be able to handle seve
 calls at the same time, or insert new software without having to switch off the exchange,
 upgrade and then start the exchange again.
 
-When Ericsson looked at programming languages ​​at its development labs in the mid-80s
+When Ericsson looked at programming languages at its development labs in the mid-80s
 to manage its switches, no existing language really fit. They therefore constructed
 their own language Erlang, named after a Danish mathematician. It is declarative,
 but also functional language. This means that the statements that are written are
@@ -94,7 +95,7 @@ processes is used.
 
 ### Example
 
-A trivial textbook example in programming languages ​​is usually integer factorization.
+A trivial textbook example in programming languages is usually integer factorization.
 In figure 1 you see how such a thing looks in Erlang. The first line names the module
 with fact. The easiest way is to save it as a file with the same file name as the module.
 An initial divi character marks that it is a so-called attribute. The sentence ends
@@ -112,7 +113,7 @@ factorial(N) ->
   N * factorial(N - 1).
 ```
 
-The calculation itself is very similar to the mathematical formulation in picture 2.
+The calculation itself is very similar to the mathematical formulation in figure 2.
 When testing the module/function, e.g. "fact:factorial(34)." in the running environment
 (shell) that exists. Erlang tries to pattern match "factorial(34)" against "factorial(0)"
 and fails. But against "factorial(N)" where N is a variable, the match succeeds and N
@@ -164,12 +165,12 @@ environment for experiments during e.g. Microsoft Windows is Erlang/OTP
 libraries and other components are assumed. If you start the environment,
 it looks like in the picture below.
 
-![Tetris](/assets/images/bild5.bmp)
+![Layout](/assets/images/bild5.bmp)
 
 This is the shell you communicate through. Here you can interact with
 Erlang directly, for example calculate arithmetic expressions directly.
 Compiling and loading a Tetris game is provided with a simple command
-"c(tetris).". Because an internal library is used, some GUI components
+`c(tetris).`. Because an internal library is used, some GUI components
 are slightly different from the standard components under Windows,
 as shown in the figure below.
 
@@ -182,6 +183,12 @@ processes can be shown as in image 8, and in more detail by double-clicking the
 process <0.21.0> in image 9. In addition to process management, there are also
 debugging tools in the environment.
 
+![Layout](/assets/images/bild7.bmp)
+
+![Layout](/assets/images/bild8.bmp)
+
+![Layout](/assets/images/bild9.bmp)
+
 Erlang is similar to Java in several ways. There is an automatic garbage collector,
 so that the program does not have to keep track of memory references. So better
 security for memory leaks than e.g. pointer structures under C/C++. It also has an
@@ -190,6 +197,7 @@ program can be run on different platforms/operating systems without changing any
 Programs are robust as they cannot crash the entire emulator/virtual machine. The
 disadvantage, of course, is that programs become slow when they are first semi-compiled
 and then interpreted.
+
 
 ### Mnesia
 
@@ -215,7 +223,7 @@ others are now starting to discover it. There is still reason to learn highly
 useful ideas from the project, or volunteer enthusiasts give it a continued future.
 At e.g. The research institute SICS has a project that aims to be able to
 automatically verify parts of programs written in Erlang. Researchers also believe
-that more insecure languages ​​such as PLEX and C may gain in the short term in terms
+that more insecure languages such as PLEX and C may gain in the short term in terms
 of efficiency (speed), while Erlang may gain in more secure properties.
 
 
