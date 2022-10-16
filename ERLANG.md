@@ -8,6 +8,13 @@ Translation of: Set Lonnert,
 "Erlang - an old programming language with a future",
 *Datormagazin* no. 3 2001.
 
+As a background I guess one thing from the intense years of
+interest in logic programming and especially Prolog in the
+1980s in Sweden and Europe, Erlang most probably grew from
+that kettle. Erlang became a practical tool that in the 1972
+foundation Prolog was not. The history of Erlang can be read at:
+https://erlang.org/download/armstrong_thesis_2003.pdf.
+
 This is from the original manuscript and not from the final
 published version, so the editor might have changed minor things.
 Translation has mainly been done through Google translate.
