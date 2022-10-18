@@ -2,8 +2,18 @@
 
 ![Article](/assets/images/IMG_2741.png)
 
+## Introduction: About an article on Erlang from 2001
+
 Translation of: Set Lonnert,
-"Erlang - an old programming language with a future", *Datormagazin* no. 3 2001.
+"Erlang - an old programming language with a future",
+*Datormagazin* no. 3 2001.
+
+As a background I guess one thing from the intense years of
+interest in logic programming and especially Prolog in the
+1980s in Sweden and Europe, Erlang most probably grew from
+that kettle. Erlang became a practical tool that in the 1972
+foundation Prolog was not. The history of Erlang can be read at:
+https://erlang.org/download/armstrong_thesis_2003.pdf.
 
 This is from the original manuscript and not from the final
 published version, so the editor might have changed minor things.
@@ -29,12 +39,12 @@ He was obviously right. I learned the hard way that
 __checking your sources__ is __always__ a requirement
 before publishing. I wrongly trusted an argument I read
 on the internet, having a discussion on Erlang.
-Well, now over to the article.
+Well, sorry bout that. Now over to the article.
 
 ![Response](/assets/images/IMG_2740.png)
 
 
-## Erlang - an old programming language with a future
+## *Erlang - an old programming language with a future*
 
 In the wake of things like broadband and integration with telephony, the Internet
 requires better software. With faster connections, it follows that the systems
@@ -58,7 +68,7 @@ A system should therefore have real-time characteristics, be able to handle seve
 calls at the same time, or insert new software without having to switch off the exchange,
 upgrade and then start the exchange again.
 
-When Ericsson looked at programming languages ​​at its development labs in the mid-80s
+When Ericsson looked at programming languages at its development labs in the mid-80s
 to manage its switches, no existing language really fit. They therefore constructed
 their own language Erlang, named after a Danish mathematician. It is declarative,
 but also functional language. This means that the statements that are written are
@@ -92,7 +102,7 @@ processes is used.
 
 ### Example
 
-A trivial textbook example in programming languages ​​is usually integer factorization.
+A trivial textbook example in programming languages is usually integer factorization.
 In figure 1 you see how such a thing looks in Erlang. The first line names the module
 with fact. The easiest way is to save it as a file with the same file name as the module.
 An initial divi character marks that it is a so-called attribute. The sentence ends
@@ -110,7 +120,7 @@ factorial(N) ->
   N * factorial(N - 1).
 ```
 
-The calculation itself is very similar to the mathematical formulation in picture 2.
+The calculation itself is very similar to the mathematical formulation in figure 2.
 When testing the module/function, e.g. "fact:factorial(34)." in the running environment
 (shell) that exists. Erlang tries to pattern match "factorial(34)" against "factorial(0)"
 and fails. But against "factorial(N)" where N is a variable, the match succeeds and N
@@ -118,7 +128,13 @@ assumes the value 34. When the match succeeds, Erlang can continue after the -> 
 Here it is tasked with recursively working on 34 multiplied by the factorization of
 34 minus 1, etc.
 
-.. figure 2 ..
+Figure 2
+```math
+n! = \begin {cases}
+1 & : n = 0 \\
+n ({n - 1})! & : n &gt; 0
+\end {cases}
+```
 
 A more refined way of calculating factorization is shown in figure 3, with so-called
 guards, or expanded in figure 4 with both guards and local temporary variables that
@@ -156,12 +172,12 @@ environment for experiments during e.g. Microsoft Windows is Erlang/OTP
 libraries and other components are assumed. If you start the environment,
 it looks like in the picture below.
 
-![Tetris](/assets/images/bild5.bmp)
+![Layout](/assets/images/bild5.bmp)
 
 This is the shell you communicate through. Here you can interact with
 Erlang directly, for example calculate arithmetic expressions directly.
 Compiling and loading a Tetris game is provided with a simple command
-"c(tetris).". Because an internal library is used, some GUI components
+`c(tetris).`. Because an internal library is used, some GUI components
 are slightly different from the standard components under Windows,
 as shown in the figure below.
 
@@ -174,6 +190,12 @@ processes can be shown as in image 8, and in more detail by double-clicking the
 process <0.21.0> in image 9. In addition to process management, there are also
 debugging tools in the environment.
 
+![Layout](/assets/images/bild7.bmp)
+
+![Layout](/assets/images/bild8.bmp)
+
+![Layout](/assets/images/bild9.bmp)
+
 Erlang is similar to Java in several ways. There is an automatic garbage collector,
 so that the program does not have to keep track of memory references. So better
 security for memory leaks than e.g. pointer structures under C/C++. It also has an
@@ -182,6 +204,7 @@ program can be run on different platforms/operating systems without changing any
 Programs are robust as they cannot crash the entire emulator/virtual machine. The
 disadvantage, of course, is that programs become slow when they are first semi-compiled
 and then interpreted.
+
 
 ### Mnesia
 
@@ -200,24 +223,25 @@ other things, the distribution (possibly to several machines) and the replicatio
 (both to RAM and to disk) means that availability will be very high.
 
 Unfortunately, Ericsson has stopped its development of Erlang, and refrains from
-writing applications in it in the future. Many of the group that worked with Erlang
+writing applications in it in the future.[^corr] Many of the group that worked with Erlang
 left Ericsson and formed Bluetail in 1999. Bluetail was recently sold last August
 to Alteon WebSystems. Perhaps no company is eager for Erlang anymore, but many
 others are now starting to discover it. There is still reason to learn highly
 useful ideas from the project, or volunteer enthusiasts give it a continued future.
 At e.g. The research institute SICS has a project that aims to be able to
 automatically verify parts of programs written in Erlang. Researchers also believe
-that more insecure languages ​​such as PLEX and C may gain in the short term in terms
+that more insecure languages such as PLEX and C may gain in the short term in terms
 of efficiency (speed), while Erlang may gain in more secure properties.
 
 
 *Set Lonnert*
 
+[^corr]: Wrong! See correction above.
 
 #### Downloads:
 
 * Official website: documentation, source code, compiled Erlang/OTP for e.g. Microsoft Windows: http://www.erlang.org/
-* Bluetail: http://www.bluetail.com/
-* SICS verification project: http://www.sics.se/fdt/Erlang/
-* Several useful links: http://dmoz.org/Computers/Programming/Languages/Erlang/
-* Downloadable book about Erlang, and examples: http://www.serc.rmit.edu.au/~maurice/erlbk/
+* Bluetail: http://www.bluetail.com/ (today defunct)
+* SICS verification project: http://www.sics.se/fdt/Erlang/ (redirects to RISE, also government projects)
+* Several useful links: http://dmoz.org/Computers/Programming/Languages/Erlang/ (today defunct)
+* Downloadable book about Erlang, and examples: http://www.serc.rmit.edu.au/~maurice/erlbk/ (today defunct)
