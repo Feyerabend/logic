@@ -2,13 +2,17 @@
 
 ## Early 1980's & personal experience
 
-Some personal notes about the bump in AI in the early 1980's and my interest in these events.
-Also a background for some code.
+Some personal notes about the bump in AI in the early 1980's and my interest in these events in a personal
+[VIEWPOINT](/VIEWPOINT.md) of the era.
+
+Those reflections might also serve as the background to what was coming out of the early years in e.g.
+the highly popular computer language of today: __[Erlang](ELANG.md)__. Actually Erlang started off
+as implemented in Prolog ...
 
 ## Prolog
 
-Some simple implementation.
+Some simple implementation ...
 
 ## Lisp
 
-Some simple implementation.
+Some simple implementation ...
