@@ -6,7 +6,7 @@ Some personal notes about the bump in AI in the early 1980's and my interest in 
 [VIEWPOINT](/VIEWPOINT.md) of the era.
 
 Those reflections might also serve as the background to what was coming out of the early years in e.g.
-the highly popular computer language of today: __[ERLANG](ERLANG.md)__. Actually Erlang was at first
+the highly popular computer language of today: [ERLANG](ERLANG.md). Actually Erlang was at first
 implemented in Prolog ...
 
 ## Prolog
