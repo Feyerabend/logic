@@ -180,6 +180,7 @@ on a method for performing automatic proofs. Not only did he describe the method
 but he codified the method into a program with the help of his father Håkan Prawitz,
 among others. This means that "the first experiments with general theorem
 provers for first-order logic were performed in Stockholm in 1958".[^First]
+So it might be that Simon had a contemporary compeditor?
 
 [^Provability]: Stig Kanger, *Provability in Logic*, Vol. 1 of Studies in Philosophy,
 Almqvist & WIksell, Stockholm 1957.
@@ -191,10 +192,9 @@ In Holmström-Hintikka, Ghita & Lindström, Sten & Sliwinski, Rysiek.
 Vol. II. 10.1007/978-94-010-0630-9 Page 53.
 
 
-
 ### Disillusioned
 
-So my thinking today lean towards that Kanger might (might!) later
+So my thinking *today* in 2022 lean towards that Kanger might later
 deliberately avoided any encouragement to even think about philosophy and
 computers. Well ... so while I drifted towards historical subjects at
 the university, my interests also still was with computers. However
@@ -202,11 +202,7 @@ those were large, quite out of reach for a student in philosophy.
 After various kinds of attempts to fuse computers and philosophy
 during the 1980s in attempts to understand, convince, argue, discuss
 with everyone I could even if I had little faith they were interested,
-*but all with setbacks*.
-I was lost and doubted whether combination really existed or
-could exist. Was the combination of philosophy and computers that I imagined just
-a wishful dream? I also grew increasingly tired of higher seminars which seemed to
-me to be getting nowhere. I was getting tired of university courses.
+*but all with their own setbacks*.
 
 
 ### From logic to connectionism ...
