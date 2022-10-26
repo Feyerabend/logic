@@ -207,9 +207,10 @@ with everyone I could even if I had little faith they were interested,
 
 ### From logic to connectionism ...
 
-During the spring of 1992, however, the then docent in theoretical philosophy
-Sten Lindström had a small course in AI. He had introduced me to model theory
-and Kripke semantics in another modal logic course exactly ten years earlier.
+During the spring of 1992, however, the then docent (associate prof.) in
+theoretical philosophy, Sten Lindström, had a small course in AI.
+He had introduced me to model theory and Kripke semantics in another
+modal logic course exactly ten years earlier.
 It was possibly the first ever AI course at the institution (not really close,
 but although I saw in the possible courses under Kanger there was one in
 'automata theory'). Lindström went through common problems such as consciousness,
