@@ -1,16 +1,14 @@
 # Logic
 
+## Early 1980's & personal experience
 
-## Theoretical Philosophy in Uppsala, early 1980's & 1984 Second International Logic Programming Conference in Uppsala
-
-
+Some personal notes about the bump in AI in the early 1980's and my interest in these events.
+Also a background for some code.
 
 ## Prolog
 
-
-
-## AI
-
-
+Some simple implementation.
 
 ## Lisp
+
+Some simple implementation.
