@@ -18,3 +18,12 @@ Some simple implementation ...
 Some simple implementation ...
 
 A quick but nicely implemented Lisp as [minilisp](/minilisp) where the original can be found at [rui314](https://github.com/rui314), under [public domain](https://en.wikipedia.org/wiki/Public_domain).
+
+
+## License
+
+Every folder with code should be in the main self-contained, and few if any dependencies.
+For each folder, if no other license has been explicitly added in that folder, the general
+Unlicense apply. In other cases where a license has been added to the folder, or referenced
+in other ways, the added or referenced license is applied and valid only in the case for the
+content of that folder.
