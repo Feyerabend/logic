@@ -16,4 +16,5 @@ Some simple implementation ...
 ## Lisp
 
 Some simple implementation ...
-A quick but nicely implemented Lisp as [minilisp](/minilisp).
+
+A quick but nicely implemented Lisp as [minilisp](/minilisp) where the original can be found at [rui314](https://github.com/rui314), under public domain.
