@@ -17,7 +17,7 @@ Some simple implementation ...
 
 Some simple implementation ...
 
-A quick but nicely implemented Lisp as [minilisp](/minilisp) where the original can be found at [rui314](https://github.com/rui314), under [public domain](https://en.wikipedia.org/wiki/Public_domain). Another implementation at [tiny-lis](https://github.com/matp/tiny-lisp) released under Unlicense.
+A quick but nicely implemented Lisp as [minilisp](/minilisp) where the original can be found at [rui314](https://github.com/rui314), under [public domain](https://en.wikipedia.org/wiki/Public_domain). Another implementation [tiny-lisp](/tinylisp) from [tiny-lisp by matp]https://github.com/matp/tiny-lisp) released under Unlicense.
 
 
 ## License
