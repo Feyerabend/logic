@@ -227,3 +227,6 @@ However, we can implement `when` as a macro that wraps `expr...` in a call to
 
 `(when (consp x) (car x))` would then produce the expression
 `(if (consp x) (progn (car x)))` which yields the expected behaviour.
+
+----
+Original code can be found at https://github.com/matp/tiny-lisp
